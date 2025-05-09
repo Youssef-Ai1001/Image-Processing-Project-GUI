@@ -112,7 +112,7 @@ To run the project, ensure you have Python installed (Python 3.6 or later recomm
 image-processing-gui/
 │
 ├── README.md                # Project overview and instructions
-├── main.py                  # Main application script (contains the GUI and processing code)
+├── Image_Processing_GUI.py  # Main application script (contains the GUI and processing code)
 └── requirements.txt         # List of dependencies (optional)
 ```
 
